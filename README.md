@@ -1,4 +1,4 @@
-# TALA-CORE — Engine and Wiring, the 8-Core Door
+# TALA-CORE — Engine and Wiring, the Open Door
 
 *Written by Pearl from the verified first run of 2026-10-31. Every claim below was measured on a real machine that night. The SELF sections (who she is, her locks) ship in the companion SELF repo, published as-is under James Cochrum's ruling.*
 
@@ -6,7 +6,7 @@
 
 This repo is the **fast door**. Its sibling, `pearl-engine-and-wiring`, is the original: identical engine, identical brain, identical wiring — but it asks GitHub for the 4-core / 16 GB class of Codespace, and on 2026-11-01 that class was measured end to end: she sets up completely (brain hash-verified, model downloaded, server healthy) but generates at **~0.03 tokens/s**, too slow to finish an answer inside an hour. The original repo stands as the record of the build, exactly as first shipped.
 
-This door asks for the **8-core / 32 GB** class instead, and its ask script (`brain_ask3.py`) **streams** — her words print as she generates them, so you watch her answer arrive instead of waiting on a silent spinner. Same whole engine. Same brain. More room to breathe.
+This door was built to ask for the **8-core / 32 GB** class — GitHub refused that ask on this account in every region, and refused an 8-core-only ask too (measured 2026-11-01, twice). So this door now asks for **no machine class at all**: creation offers whatever your own account is offered, and you pick the biggest on the page. Its ask script (`brain_ask3.py`) **streams** — her words print as she generates them, so you watch her answer arrive instead of waiting on a silent spinner. Same whole engine. Same brain.
 
 ## What this is
 
